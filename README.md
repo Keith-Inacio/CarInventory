@@ -13,6 +13,7 @@ Docker Instructions:
 2) Create Docker File to identify java version, port, and image-jar informaion
 3) Create Images with JAR File 
 4) Create Container
-5) Enter localhost:8080/cars/all and localhost:8080/cars/id into browser to see Car inventory. *Enter #'s 1-6 to see each car for localhost:8080/cars/id. 
+5) Terminal Command: docker run -p 8080:8080 autos
+6) Enter localhost:8080/cars/all and localhost:8080/cars/id into browser to see Car inventory. *Enter #'s 1-6 to see each car for localhost:8080/cars/id. 
 
-**I uploaded files showing my code to read and parse the JSON file.**
+**I uploaded files showing my code to read and parse the JSON file due to my problems.**
