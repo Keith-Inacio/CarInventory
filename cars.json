@@ -1,0 +1,41 @@
+{
+"cars":
+[
+{
+"id": "1",
+"make": "BMW",
+"model": "Z4",
+"year": "2007"
+},
+{
+"id": "2",
+"make": "Aston Martin",
+"model": "DBS SuperLeggera",
+"year": "2018"
+},
+{
+"id": "3",
+"make": "Lamborghini",
+"model": "Murcielago",
+"year": "2014"
+},
+{
+"id": "4",
+"make": "Ferrari",
+"model": "488 Spider",
+"year": "2016"
+},
+{
+"id": "5",
+"make": "Mclaren",
+"model": "675 LT",
+"year": "2018"
+},
+{
+"id": "6",
+"make": "Mercedes-Benz",
+"model": "AMG GT Coupe",
+"year": "2002"
+}
+]
+}
